@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="apple5name" label="Apple5name" language="en" table="sn_apple5_apple5table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>apple5name</element>
+            <help/>
+            <hint/>
+            <label>Apple5name</label>
+            <language>en</language>
+            <name>sn_apple5_apple5table</name>
+            <plural>Apple5names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2020-02-08 19:50:03</sys_created_on>
+            <sys_id>979e535e19b68010f87779baf659d395</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Apple5name</sys_name>
+            <sys_package display_value="apple5" source="sn_apple5">417e1f1e19b68010f87779baf659d369</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="apple5">417e1f1e19b68010f87779baf659d369</sys_scope>
+            <sys_update_name>sys_documentation_sn_apple5_apple5table_apple5name_en</sys_update_name>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2020-02-08 19:50:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
